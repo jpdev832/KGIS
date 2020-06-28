@@ -1,3 +1,3 @@
 rootProject.name = "kgis"
 
-include(":library-postgis")
+include(":postgis")
