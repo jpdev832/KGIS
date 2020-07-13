@@ -1,8 +1,9 @@
-package dev.joelparrish.gis.postgis.functions
+package dev.joelparrish.ktor.gis.postgis.functions
 
-import dev.joelparrish.gis.postgis.columns.GeomColumnType
+import dev.joelparrish.ktor.gis.postgis.columns.GeomColumnType
 import org.jetbrains.exposed.sql.Function
 import org.jetbrains.exposed.sql.QueryBuilder
+import org.jetbrains.exposed.sql.append
 
 /**
  * Creates a 2D, 3D Z or 4D ZM Point geometry

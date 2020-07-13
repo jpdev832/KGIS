@@ -1,4 +1,4 @@
-package dev.joelparrish.gis.postgis.columns
+package dev.joelparrish.ktor.gis.postgis.columns
 
 import org.jetbrains.exposed.sql.Column
 import org.jetbrains.exposed.sql.ColumnType

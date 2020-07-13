@@ -1,5 +1,6 @@
-package dev.joelparrish.gis.postgis.functions
+package dev.joelparrish.ktor.gis.postgis.functions
 
+import org.jetbrains.exposed.sql.append
 import org.jetbrains.exposed.sql.Expression
 import org.jetbrains.exposed.sql.Op
 import org.jetbrains.exposed.sql.QueryBuilder
